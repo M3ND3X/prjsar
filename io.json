@@ -7,5 +7,6 @@
   ],
   "authPath": "/auth",
   "syncPath": "/sync",
-  "assetsPath": "/assets"
+  "assetsPath": "/assets",
+  "ttsPath": "/tts" 
 }
