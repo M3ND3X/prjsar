@@ -1,6 +1,6 @@
 {
   "baseUrls": [
-    "https://d8fc-196-190-61-130.ngrok-free.app/api/v1",
+    "https://96ac-196-189-144-126.ngrok-free.app/api/v1",
     "http://127.0.0.1:5000/api/v1",
     "http://10.0.2.2:5000/api/v1",
     "http://192.168.1.1:5000/api/v1"
