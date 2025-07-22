@@ -5,6 +5,10 @@
     "http://10.0.2.2:5000/api/v1",
     "http://192.168.1.1:5000/api/v1"
   ],
+    "storyGeneratorUrls": [
+    "http://172.31.18.60:5001",
+    "http://127.0.0.1:5001"
+  ],
   "authPath": "/auth",
   "syncPath": "/sync",
   "assetsPath": "/assets",
