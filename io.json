@@ -6,8 +6,8 @@
     "http://192.168.1.1:5000/api/v1"
   ],
     "storyGeneratorUrls": [
-    "http://127.0.0.1:5001",  
-    "http://34.220.231.39:5001"
+    "http://34.220.231.39:5001",
+    "http://127.0.0.1:5001"  
   ],
   "authPath": "/auth",
   "syncPath": "/sync",
