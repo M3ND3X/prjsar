@@ -12,6 +12,6 @@
   "authPath": "/auth",
   "syncPath": "/sync",
   "assetsPath": "/assets",
-  "latestAppVersion": 18,
+  "latestAppVersion": 20,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.knovuslab.ras"
 }
