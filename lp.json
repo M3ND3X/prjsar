@@ -1,5 +1,10 @@
 {
   "latestAppVersion": 12,
   "playStoreUrl": "https://play.google.com/store/apps/details?id=co.lakipay.lakipay",
-  "appStoreUrl":"https://apps.apple.com/app/lakipay/id6753122384"
+  "appStoreUrl": "https://apps.apple.com/app/lakipay/id6753122384",
+  "appInformation": {
+    "version": "0.0.1",
+    "build": 12,
+    "lastUpdate": "2025-10-14"
+  }
 }
